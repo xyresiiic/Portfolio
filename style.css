@@ -26,10 +26,10 @@
   padding: 1.2rem 2rem;
   background: var(--light);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-  position: sticky;
+  position: inherit;
   top: 0;
   z-index: 999;
-  flex-wrap: wrap; /* in case of small screens */
+  flex-wrap: wrap;
 }
 
 .logo {
