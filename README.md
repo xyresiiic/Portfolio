@@ -5,6 +5,11 @@ A responsive personal portfolio website built to showcase my projects, skills, a
 This portfolio represents my journey as a B.Tech student working toward becoming a professional Software Engineer by building real-world applications and digital experiences.
 
 ---
+## Demo 🎬
+
+Try it out live: https://xyresiiic.github.io/Portfolio/
+
+---
 
 ## ✨ Features
 
